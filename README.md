@@ -9,7 +9,9 @@
 
 - 👨‍💻 Some of my projects are available at [https://codepen.io/shlokjakhotia/full/NWvNYPe](https://codepen.io/shlokjakhotia/full/NWvNYPe)
 
-- 💬 Ask me about **anything, i am happy to help.**
+- :heartbeat: &nbsp;Passionate with problem solving.
+
+- 💬 Ask me about **anything, i am happy to help;**
 
 <h3 align="left">Check me out on:</h3>
 <p align="left">
