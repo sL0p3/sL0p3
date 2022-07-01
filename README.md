@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shlok</h1>
-<h3 align="center">Full Stack developer</h3>
+<h3 align="center">Full Stack Web developer</h3>
+<h3 align="center">Competitive Programmer</h3>
 <br>
 <img align="right" alt="Coding" width="400" src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117d4dc2306e1ba6d2f09f1ab3a35a6faf6791938b&rid=giphy.gif&ct=g">
 
