@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sl0p3&label=Profile%20views&color=0e75b6&style=flat" alt="sl0p3" /> </p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 Some of my projects are available at [https://codepen.io/shlokjakhotia/full/NWvNYPe](https://codepen.io/shlokjakhotia/full/NWvNYPe)
 
