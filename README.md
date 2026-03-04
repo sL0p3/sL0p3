@@ -2,8 +2,7 @@
 <h3 align="center">MS Student in Computer Science | Data Science & AI | ML/AI Enthusiast</h3>
 
 <img align="right" alt="AI Coding" width="400" 
-     src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117d4dc2306e1ba6d2f09f1ab3a35a6faf6791938b&rid=giphy.gif&ct=g" 
-     style="margin-left: 20px;">
+     src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117d4dc2306e1ba6d2f09f1ab3a35a6faf6791938b&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sl0p3&label=Profile%20views&color=0e75b6&style=flat" alt="sl0p3" /> </p>
 
